@@ -1,4 +1,4 @@
-module github.com/devfullcycle/14-gRPC
+module github.com/maxkikuchi/14-gRPC
 
 go 1.19
 
